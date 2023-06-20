@@ -1,0 +1,10 @@
+/node_modules
+Resources.txt
+
+/frontend/node_modules
+/frontend/src/images
+/frontend/src/img
+
+/Product
+/ecommerce images
+/backend/config/config.env
